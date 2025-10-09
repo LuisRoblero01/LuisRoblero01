@@ -26,7 +26,7 @@ Actualmente desarrollo mi tesis en el modelado epidemiológico mediante el **mod
 ---
 
 ### 🧰 Tecnologías y herramientas
-🐍 **Python:** NumPy, Pandas, Matplotlib, SciPy, TensorFlow, Keras, Scikit-Learn  
+🐍 **Python:** NumPy, Pandas, Matplotlib, SciPy, TensorFlow, Scikit-Learn  
 🐧 **Bash / Linux:** Automatización de procesos, scripting, SLURM (HPC)  
 ☁️ **Jupyter Lab:** Prototipado y entrenamiento de modelos en servidor HPC  
 ⚙️ **Git & GitHub:** Control de versiones y colaboración  
