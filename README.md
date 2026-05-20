@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Luis Roblero!
 
 🎓 **Físico Aplicado** recién egresado (FCFM-BUAP)  
-💻 Enfocado en **Ciencia de Datos**, **Modelado Matemático** y **Simulación Computacional**  
+💻 Enfocado en **Ciencia de Datos**, **Automatizaciones**, **Modelado Matemático** y **Simulación Computacional**  
 
 ---
 
@@ -39,7 +39,8 @@ Actualmente desarrollo mi tesis en el modelado epidemiológico mediante el **mod
 - Modelado Matemático
 - Aprendizaje Profundo y Series Temporales  
 - Simulación de Sistemas Físicos  
-- Computación Científica y HPC  
+- Computación Científica y HPC
+- Automatizaciones
 
 ---
 
