@@ -30,7 +30,7 @@ validated against real **OxCGRT (COVID-19)** policy data.
 **Machine Learning & Automation**
 - 🦠 [**SIR-Model**](https://github.com/LuisRoblero01/SIR-Model) — Epidemic control via simulation + neural networks (public part of my thesis work).
 - 🤖 [**Audio-to-Report Automation**](https://github.com/LuisRoblero01/Audio-to-report-automation) — AI Telegram bot that transcribes audio, generates structured PDF reports and automates payments (n8n + Mercado Pago).
-- 🧠 [**Recurrent Neural Networks (RNN)**](https://github.com/LuisRoblero01/Redes-Neuronales-Recurrentes-RNN-) — Time-series forecasting (Bitcoin) and image classification with LSTM / Conv1D.
+- 🧠 [**Recurrent Neural Networks (RNN)**](https://github.com/LuisRoblero01/Redes-Neuronales-Recurrentes-RNN-) — Bitcoin price forecasting (LSTM) and skin-cancer / skin-lesion image classification (CNN, 9 classes).
 
 **Scientific Computing**
 - ⚙️ [**Physical Systems Simulation**](https://github.com/LuisRoblero01/Simulacion-de-Sistemas-Fisicos) · 🧮 [**Theoretical Mechanics Simulations**](https://github.com/LuisRoblero01/MT_Simulaciones) — Numerical methods for physical and Hamiltonian systems.
