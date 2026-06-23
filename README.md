@@ -1,60 +1,53 @@
-# 👋 ¡Hola, soy Luis Roblero!
+# 👋 Hi, I'm Luis Roblero
 
-🎓 **Físico Aplicado** recién egresado (FCFM-BUAP)  
-💻 Enfocado en **Ciencia de Datos**, **Automatizaciones**, **Modelado Matemático** y **Simulación Computacional**  
+🎓 **Applied Physicist (FCFM–BUAP)** moving into **Data Science**
+💻 Machine learning · mathematical modeling · scientific computing · data analysis
 
----
-
-### 🧠 Sobre mí
-Soy físico con interés en el análisis de datos y el desarrollo de modelos predictivos basados en fundamentos matemáticos.  
-Combino **simulación numérica**, **aprendizaje profundo** y **optimización** para estudiar sistemas complejos.
-
-Actualmente desarrollo mi tesis en el modelado epidemiológico mediante el **modelo SIR con control óptimo y horizonte errante**, donde:
-- Genero más de **100 000 simulaciones** con Python para distintos escenarios epidemiológicos.  
-- Realizo **limpieza, análisis y visualización** de los datos generados.  
-- Entreno **redes neuronales (Conv1D + LSTM)** para predecir políticas óptimas de control.  
-- Uso la base de datos **OxCGRT (COVID-19)** para calibrar los modelos y validar los resultados.  
+I turn complex data and physics-based models into reproducible, evidence-driven
+analysis. I'm comfortable across the full workflow — cleaning and exploring data,
+building statistical and deep-learning models, and communicating results in clear
+technical reports.
 
 ---
 
-### 🚀 Proyectos destacados
-- 🦠 [**Control-Optimo-SIR**](#): Modelado y predicción de medidas de control epidemiológico usando Python, optimización y redes neuronales.  
-- ⚙️ [**Simulación-de-Sistemas-Físicos**](#): Métodos numéricos y simulaciones de sistemas físicos.
-- 🧮 [**MT_Simulaciones**](#): Métodos numéricos y simulaciones de sistemas hamiltonianos en mecánica teórica.  
-- 🤖 [**Redes-Neuronales-Recurrentes-RNN**](#): Predicción de series temporales y clasificación con modelos LSTM y Conv1D.
+### 🧠 Current focus — Thesis
+**Optimal epidemic control with neural networks (SIR model).** I run **100,000+
+simulations** in Python, build a dataset of **~350,000 training windows across 11
+diseases**, and train **Conv1D + LSTM** networks to predict optimal control
+policies — reaching **R² up to 0.99** on the test set. Models are calibrated and
+validated against real **OxCGRT (COVID-19)** policy data.
 
 ---
 
-### 🧰 Tecnologías y herramientas
-🐍 **Python:** NumPy, Pandas, Matplotlib, SciPy, TensorFlow, Scikit-Learn  
-🐧 **Bash / Linux:** Automatización de procesos, scripting, SLURM (HPC)  
-☁️ **Jupyter Lab:** Prototipado y entrenamiento de modelos en servidor HPC  
-⚙️ **Git & GitHub:** Control de versiones y colaboración  
-📘 **LaTeX:** Redacción científica y documentación académica  
+### 🚀 Featured projects
+
+**Data Science & Analytics**
+- 🌌 [**Cosmological Parameter Estimation (MCMC)**](https://github.com/LuisRoblero01/cosmological-parameter-estimation-mcmc) — Bayesian estimation of `Ωₘ` and `H₀` from Type Ia supernovae with a from-scratch Metropolis–Hastings sampler (χ²_red ≈ 0.98).
+- 🌎 [**Seismic Activity Analysis — Mexico**](https://github.com/LuisRoblero01/seismic-activity-analysis-mexico) — EDA + correlation study of **29,913 earthquakes** (SSNMX 2022), with geospatial visualization.
+- 🍽️ [**Restaurant Sales Analysis**](https://github.com/LuisRoblero01/restaurant-sales-analysis) — Business-health diagnosis of a real restaurant: revenue, traffic and average-ticket trends, with an executive report.
+- 📊 [**Academic Pass/Fail Analysis (FCFM)**](https://github.com/LuisRoblero01/academic-pass-fail-analysis) — Statistical study of **5,000+** academic records (Mann–Kendall trend tests) supporting curricular reform.
+
+**Machine Learning & Automation**
+- 🦠 [**SIR-Model**](https://github.com/LuisRoblero01/SIR-Model) — Epidemic control via simulation + neural networks (public part of my thesis work).
+- 🤖 [**Audio-to-Report Automation**](https://github.com/LuisRoblero01/Audio-to-report-automation) — AI Telegram bot that transcribes audio, generates structured PDF reports and automates payments (n8n + Mercado Pago).
+- 🧠 [**Recurrent Neural Networks (RNN)**](https://github.com/LuisRoblero01/Redes-Neuronales-Recurrentes-RNN-) — Time-series forecasting (Bitcoin) and image classification with LSTM / Conv1D.
+
+**Scientific Computing**
+- ⚙️ [**Physical Systems Simulation**](https://github.com/LuisRoblero01/Simulacion-de-Sistemas-Fisicos) · 🧮 [**Theoretical Mechanics Simulations**](https://github.com/LuisRoblero01/MT_Simulaciones) — Numerical methods for physical and Hamiltonian systems.
 
 ---
 
-### 🧩 Áreas de interés
-- Ciencia de Datos aplicada  
-- Modelado Matemático
-- Aprendizaje Profundo y Series Temporales  
-- Simulación de Sistemas Físicos  
-- Computación Científica y HPC
-- Automatizaciones
+### 🧰 Tech stack
+**Python:** NumPy · Pandas · SciPy · Matplotlib · Seaborn · Scikit-Learn · TensorFlow
+**Data:** SQL · statistical inference · time series · Power BI · Excel
+**Scientific:** Mathematical modeling · MCMC · numerical methods · LaTeX
+**Tooling:** Git & GitHub · Linux / Bash · Jupyter · HPC (SLURM) · n8n
 
 ---
 
-### 📊 Estadísticas
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/luis-enrique-roblero-roblero) · [Email](mailto:l.roblero01@gmail.com)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRoblero01&layout=compact&theme=tokyonight)
-
----
-
-### 🌱 Actualmente aprendiendo
-- Despliegue de modelos con Streamlit y GitHub Pages  
-- Control predictivo basado en redes neuronales (MPC + Deep Learning)  
-- Optimización computacional en entornos HPC  
-
----
-
-📫 **Contáctame:**  
-[LinkedIn](www.linkedin.com/in/luis-enrique-roblero-roblero) • [Email](l.roblero01@gmail.com)
